@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>go.png</file>
+        <file>icon.ico</file>
+        <file>lib.rc</file>
+        <file>login_bg.png</file>
+        <file>reg.png</file>
+        <file>trans.png</file>
+        <file>reg2.png</file>
+    </qresource>
+</RCC>
